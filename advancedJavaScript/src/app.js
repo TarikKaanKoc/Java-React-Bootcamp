@@ -28,7 +28,7 @@
         console.log(products[0]) // 0. Elamanı okut. Çıktı: Elma
     }
 
-    // typeof en son aldığı değeri okutur 
+    // typeof en son aldığı tipi okutur 
  //   console.log(typeof showProducts)
     //rest 
  //  showProducts(10,"elma","armut","karpuz");
