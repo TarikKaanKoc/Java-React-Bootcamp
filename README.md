@@ -1,8 +1,6 @@
 # Java And React Bootcamp 
 ---
-
-This repo is progressing synchronously with Engin Demiroğ's Software Developer Training Camp (JAVA & REACT).
-This repo consists of the codes written in the course and the project assignments given. To reach the camp [click](https://kodlama.io/p/yazilim-gelistirici-yetistirme-kampi2).
+This repo consists of the codes written in the course and the project assignments given.
 
 ### `Lectures`
  - **Lecture 1**
