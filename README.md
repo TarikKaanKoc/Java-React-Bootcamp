@@ -1,26 +1,30 @@
-### Java & React Bootcamp (https://kodlama.io/)
-## Lectures
+# Java And React Bootcamp 
+---
+
+This repo is progressing synchronously with Engin Demiroğ's Software Developer Training Camp (JAVA & REACT).
+This repo consists of the codes written in the course and the project assignments given. To reach the camp [click](https://kodlama.io/p/yazilim-gelistirici-yetistirme-kampi2).
+
+### `Lectures`
  - **Lecture 1**
-	 - [*intro*](https://github.com/karcan/javaBootcamp/tree/master/lecture1-intro/src/intro)
+	 - [*intro*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/intro/src)
  - **Lecture 2**
-	 - [*oopIntro*](https://github.com/karcan/javaBootcamp/tree/master/lecture2-oopIntro/src/oopIntro)
-	 - [*homework*](https://github.com/karcan/javaBootcamp/tree/master/lecture2.2-homework/src/homework)
+	 - [*oopIntro*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/oopintro/src)
+	 - [*homework*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/Homework%20-1/src)
  - **Lecture 3**
-	 - [*oopIntro2*](https://github.com/karcan/javaBootcamp/tree/master/lecture3.1-oopIntro2/src/oopIntro2)
-	 - [*inheritance*](https://github.com/karcan/javaBootcamp/tree/master/lecture3.2-inheritance/src/inheritance)
-	 - [*inheritance2*](https://github.com/karcan/javaBootcamp/tree/master/lecture3.3-inheritance2/src/inheritance2)
-	 - [*homework*](https://github.com/karcan/javaBootcamp/tree/master/lecture3.4-homework/src/homework)
+	 - [*inheritance*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/inheritance/src)
+	 - [*inheritance2*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/inheritance/inheritance2/src)
+	 - [*homework*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/Homework%20-2/src)
  - **Lecture 4**
-	 - [*interface*](https://github.com/karcan/javaBootcamp/tree/master/lecture4.1-interface/src/interfaces)
-	 - [*homework2*](https://github.com/karcan/javaBootcamp/tree/master/lecture4.2-homework2/src)
-	 - [*homework3*](https://github.com/karcan/javaBootcamp/tree/master/lecture4.3-homework3/src/homework3)
+	 - [*interface*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/interfaces/src)
+	 - [*homework*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/Game%20Backend%20Homework%20-3/src)
  - **Lecture 5**
- 	 - [*nLayeredDemo*](https://github.com/karcan/javaBootcamp/tree/master/lecture5-nLayeredDemo/src/nLayeredDemo)
- 	 - [*homework*](https://github.com/karcan/javaBootcamp/tree/master/lecture5.2-homework/src/homework)
+ 	 - [*nLayeredDemo*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/nLayeredDemo/src)
+ 	 - [*homework*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/Homework%20-5/src)
  - **Lecture 6**
- 	 - [*springIntro*](https://github.com/karcan/javaBootcamp/tree/master/lecture6.1-springIntro/src/main/java/kodlamaio/northwind)
- 	 - [*homework2*](https://github.com/karcan/javaBootcamp/tree/master/lecture6.2-homework2)
+ 	 - [*springIntro*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/northwind/src/main/java/com/company)
+ 	 - [*homework*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/Homework%20-6/src/main/java/kodlamaio/hrmsfinalproject)
  - **Lecture 7**
- 	 - [*swaggerAndResult*](https://github.com/karcan/javaBootcamp/tree/master/lecture7.1-swaggerAndResult/src/main/java/kodlamaio/northwind)
+ 	 - [*swaggerAndResult*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/northwind2/src/main/java/com/company)
  - **Lecture 8**
- 	 - [*springJPA*](https://github.com/karcan/javaBootcamp/tree/master/lecture8.1-springJPA/src/main/java/kodlamaio/northwind)
+ 	 - [*springJPA*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/northwind3/src/main/java/kodlamaio/northwind)
+ - **Lectur 9**
