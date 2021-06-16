@@ -1,4 +1,4 @@
-# Java And React Bootcamp 
+# Java And React Boot Camp 
 ---
 This repo consists of the codes written in the course and the project assignments given.
 
