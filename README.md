@@ -14,7 +14,8 @@ This repo consists of the codes written in the course and the project assignment
 	 - [*homework*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/Homework%20-2/src)
  - **Lecture 4**
 	 - [*interface*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/interfaces/src)
-	 - [*homework*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/Game%20Backend%20Homework%20-3/src)
+	 - [*Game backend simulation (homework(1))*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/Game%20Backend%20Homework%20-3/src)
+	 - [*Starbucks and nero coffe shop simulation (Homework(2))*](https://github.com/TarikKaanKoc/Java-React-BootCamp/tree/main/Coffee%20Shop.%20(Starbucks%20And%20Nero)%20Homework%20-4/src)
  - **Lecture 5**
  	 - [*nLayeredDemo*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/nLayeredDemo/src)
  	 - [*homework*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/Homework%20-5/src)
@@ -25,4 +26,7 @@ This repo consists of the codes written in the course and the project assignment
  	 - [*swaggerAndResult*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/northwind2/src/main/java/com/company)
  - **Lecture 8**
  	 - [*springJPA*](https://github.com/TarikKaanKoc/JavaBootCamp/tree/main/northwind3/src/main/java/kodlamaio/northwind)
- - **Lectur 9**
+ - **Lecture 9**
+  	 - [*spring boot*](https://github.com/TarikKaanKoc/Java-React-BootCamp/tree/main/northwind4/src/main/java/kodlamaio/northwind)
+- **Letcure 10**
+	 - [*JavaScript & ES6*](https://github.com/TarikKaanKoc/Java-React-BootCamp/tree/main/advancedJavaScript/src)
