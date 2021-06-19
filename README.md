@@ -29,4 +29,4 @@ This repo consists of the codes written in the course and the project assignment
  - **Lecture 9**
   	 - [*spring boot*](https://github.com/TarikKaanKoc/Java-React-BootCamp/tree/main/northwind4/src/main/java/kodlamaio/northwind)
 - **Letcure 10**
-	 - [*JavaScript & ES6*](https://github.com/TarikKaanKoc/Java-React-BootCamp/tree/main/advancedJavaScript/src)
+	 - [*JavaScript & ES6*](https://github.com/TarikKaanKoc/Java-React-BootCamp/tree/main/advancedJavaScript/src) 
